@@ -11,8 +11,8 @@
     padding: 20px;
 }
 .logo > img{
-    height: 150px;
-    width: 170px;
+    height: 100px;
+    width: 120px;
 }
 nav{
     flex: 1;
@@ -25,6 +25,7 @@ nav ul{
 nav > ul > li{
     display: inline-block;
     margin-right: 20px;
+    margin-top: 20px;
 } 
 .col-5 img{
     height: 530px;
